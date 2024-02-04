@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a style="font-size: 50px;">👋</a>
+  <a style="font-size: 100px;">👋</a>
 <br>
 <h1>반갑습니다! </h1>
 <p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p>

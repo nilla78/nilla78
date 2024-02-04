@@ -14,7 +14,7 @@
 <br/>
 <h3>💬 소셜 🗨️</h3>
 <p>
-  <a href="https://discord.com/users/1053585025074999369" style="display:inline-block; margin-right: 10px;">
+  <a href="https://discord.com/users/1053585025074999369" style="display:inline-block;">
     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://discord.com/users/1053585025074999369">

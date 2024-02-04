@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <h1><a style="font-size: 50px;">👋</a><br>반갑습니다! </h1>
 <p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p>
 
@@ -18,3 +19,4 @@
 </a>
 </p>
   <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
+</div>

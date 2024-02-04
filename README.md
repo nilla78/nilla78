@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3>🔥 관심사 🔥</h3>
+<h3>🔥 자주쓰는 언어 🔥</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> 
@@ -19,8 +19,5 @@
 </a>
 </p>
 <br>
-<h3>🍀 GitStats 🍀</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongJaeyeon&layout=compact&theme=dark) 
   <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
 </div>

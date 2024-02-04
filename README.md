@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 반갑습니다! </h1>
- <h2><p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 개발자 <strong>바닐라</strong>입니다.</p></h2>
+ <h2><p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p></h2>
 <br/>
 
 <h3>🔥 관심사 🔥</h3>

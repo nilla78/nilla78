@@ -18,5 +18,5 @@
   <p>
     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
   </p>
-  <span style="font-size: 2px; opacity: 0.1%;">&#169; Nilla. 2024.</span>
+  <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
 </div>

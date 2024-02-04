@@ -13,7 +13,7 @@
   </p>
 <br/>
 <h3>💬 소셜 🗨️</h3>
-<p>
+<p style="text-decoration: none;">
   <a href="https://discord.com/users/1053585025074999369">
     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>

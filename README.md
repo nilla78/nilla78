@@ -17,6 +17,5 @@
 <h3>💬 소셜 🗨️</h3>
   <p>
     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
-    <img src="https://img.shields.io/badge/email-3178C6?style=for-the-badge&logo=email&logoColor=white" alt="TypeScript"/> 
   </p>
 </div>

@@ -4,7 +4,7 @@
 
 <p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p>
 
-<br/>
+---
 
 ## 🔥 관심사 🔥
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
 </p>
 
-<br/>
+---
 
 ## 💬 소셜 🗨️
 

@@ -14,14 +14,14 @@
 <br/>
 <h3>💬 소셜 🗨️</h3>
 <p>
-  <a href="https://discord.com/users/1053585025074999369">
-  <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
-</a>
-</p><p>
-  <a href="https://discord.com/users/1053585025074999369">
-  <img src="https://img.shields.io/badge/youtube-7289da?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/> 
-</a>
+  <a href="https://discord.com/users/1053585025074999369" style="display:inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://discord.com/users/1053585025074999369" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/youtube-7289da?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
 </p>
+
 <br>
   <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
 </div>

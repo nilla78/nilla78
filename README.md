@@ -25,7 +25,3 @@
 <br>
   <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
 </div>
-<input type="text" id="repositoryInput" placeholder="Repositories 이름을 입력하세요">
-<button onclick="moveToRepository()">이동</button>
-
-<script src="index.js"></script>

@@ -1,4 +1,3 @@
-
 <div align="center">
 <br>
 <h1>👋 반갑습니다! </h1>
@@ -29,13 +28,4 @@
 <input type="text" id="repositoryInput" placeholder="Repositories 이름을 입력하세요">
 <button onclick="moveToRepository()">이동</button>
 
-<script>
-  function moveToRepository() {
-    var repositoryName = document.getElementById("repositoryInput").value;
-    if (repositoryName.trim() !== "") {
-      window.location.href = "https://github.com/{your-username}/" + repositoryName;
-    } else {
-      alert("Repositories 이름을 입력하세요.");
-    }
-  }
-</script>
+<script src="index.js"></script>

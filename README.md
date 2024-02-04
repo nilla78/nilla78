@@ -26,3 +26,16 @@
 <br>
   <span style="font-size: 2px; opacity: 0.1%;">&#169; 2024. Nilla. all rights reserved.</span>
 </div>
+<input type="text" id="repositoryInput" placeholder="Repositories 이름을 입력하세요">
+<button onclick="moveToRepository()">이동</button>
+
+<script>
+  function moveToRepository() {
+    var repositoryName = document.getElementById("repositoryInput").value;
+    if (repositoryName.trim() !== "") {
+      window.location.href = "https://github.com/{your-username}/" + repositoryName;
+    } else {
+      alert("Repositories 이름을 입력하세요.");
+    }
+  }
+</script>

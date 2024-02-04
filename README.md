@@ -1,3 +1,13 @@
+ <style>
+        body {
+            background-image: url('https://thumb.ac-illust.com/fa/fabddbc45df887b954734d6aa7860e8e_t.jpeg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #ffffff; /* 텍스트 색상을 설정하세요 */
+            padding: 50px; /* 내용과의 간격을 조절하세요 */
+        }
+</style>
 <div align="center">
 <h1><a style="font-size: 50px;">👋</a><br>반갑습니다! </h1>
 <p><strong>자바스크립트</strong>와 <strong>타입스크립트</strong> 학생 개발자 <strong>바닐라</strong>입니다.</p>

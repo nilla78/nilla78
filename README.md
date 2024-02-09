@@ -5,7 +5,7 @@
 
 <br/>
 
-<h3>🔥 자주쓰는 언어 🔥</h3>
+<h3>🔥 Interested at.. 🔥</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> 
